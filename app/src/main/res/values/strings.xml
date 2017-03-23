@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPSTracker</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_next">Send</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="another_point">Add Point</string>
+    <string name="go_to_route">Go To Route</string>
+    <string name="default_direction">You are heading...</string>
+</resources>
